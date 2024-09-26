@@ -1,0 +1,5 @@
+-- SQL code to select all sales amount columns in the product details table
+
+SELECT * (Sales_Amount)
+
+FROM Product_Details;
